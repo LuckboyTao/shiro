@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot-shiro" />
         <module name="haha" />
+        <module name="springboot-shiro" />
+        <module name="springbootshiro02" />
+        <module name="ssm-maven" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +18,9 @@
       <module name="shiro01" target="1.8" />
       <module name="shiroProgram" target="1.8" />
       <module name="springboot-shiro" target="1.8" />
+      <module name="springboot-shiro (1)" target="1.8" />
+      <module name="springbootshiro02" target="1.8" />
+      <module name="ssm-maven" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

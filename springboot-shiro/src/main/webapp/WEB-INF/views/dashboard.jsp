@@ -137,7 +137,7 @@
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h3 class="panel-title">
-								<i class="fa fa-bar-chart-o fa-fw"></i> Area Chart
+								<i class="fa fa-bar-chart-o fa-fw">Area Chart</i>
 							</h3>
 						</div>
 						<div class="panel-body">

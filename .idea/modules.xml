@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaIdea.iml" filepath="$PROJECT_DIR$/.idea/JavaIdea.iml" />
       <module fileurl="file://$PROJECT_DIR$/haha/haha.iml" filepath="$PROJECT_DIR$/haha/haha.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootshiro02/springbootshiro02.iml" filepath="$PROJECT_DIR$/springbootshiro02/springbootshiro02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm-maven/ssm-maven.iml" filepath="$PROJECT_DIR$/../ssm-maven/ssm-maven.iml" />
     </modules>
   </component>
 </project>

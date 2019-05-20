@@ -3,6 +3,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/shiroProgram" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/springbootshiro02/src/main/java/com/lanou/springboot-shiro01" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm-maven" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -12,7 +14,15 @@
       <list>
         <option value="$PROJECT_DIR$/springboot-shiro/pom.xml" />
         <option value="$PROJECT_DIR$/haha/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-shiro01/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootshiro02/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm-maven/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springbootshiro02/src/main/java/com/lanou/springboot-shiro01/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
